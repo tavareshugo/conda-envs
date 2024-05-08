@@ -1,0 +1,7 @@
+name: nextflow
+channels: 
+  - conda-forge
+  - bioconda
+dependencies: 
+  - nextflow==23.10.1
+  - openjdk==17.0.11 # note older version needed here
