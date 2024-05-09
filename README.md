@@ -8,4 +8,4 @@ Useful conda environment specification files:
 
 Software installed "globally" using `pixi`: 
 
-- [Pixi global](pixi-global.yaml)
+- [Pixi global](pixi-global.md)
