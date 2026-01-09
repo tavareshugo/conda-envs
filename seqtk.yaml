@@ -1,4 +1,4 @@
-name: nextflow
+name: seqtk
 channels: 
   - conda-forge
   - bioconda
